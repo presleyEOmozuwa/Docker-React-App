@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          React FrameWork for Client Side Applications.
+          React User Interface Library
         </p>
         <a
           className="App-link"
